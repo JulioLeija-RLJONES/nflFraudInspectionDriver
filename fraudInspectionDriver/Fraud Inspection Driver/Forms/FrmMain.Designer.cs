@@ -37,6 +37,7 @@
             this.MainTimer = new System.Windows.Forms.Timer(this.components);
             this.LblBlinker = new System.Windows.Forms.Label();
             this.prompt = new System.Windows.Forms.RichTextBox();
+            this.labelVersion = new System.Windows.Forms.Label();
             this.MainMenu.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -112,6 +113,16 @@
             this.prompt.TabIndex = 3;
             this.prompt.Text = "";
             // 
+            // labelVersion
+            // 
+            this.labelVersion.AutoSize = true;
+            this.labelVersion.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.labelVersion.Location = new System.Drawing.Point(624, 43);
+            this.labelVersion.Name = "labelVersion";
+            this.labelVersion.Size = new System.Drawing.Size(56, 17);
+            this.labelVersion.TabIndex = 4;
+            this.labelVersion.Text = "Version";
+            // 
             // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -119,6 +130,7 @@
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(1942, 73);
             this.ContextMenuStrip = this.MainMenu;
+            this.Controls.Add(this.labelVersion);
             this.Controls.Add(this.prompt);
             this.Controls.Add(this.LblBlinker);
             this.Controls.Add(this.LblStatus);
@@ -132,6 +144,7 @@
             this.Load += new System.EventHandler(this.FrmMain_Load);
             this.MainMenu.ResumeLayout(false);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -145,5 +158,6 @@
         private System.Windows.Forms.ToolStripMenuItem aboutToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem openCrossdockInspectionToolStripMenuItem;
         private System.Windows.Forms.RichTextBox prompt;
+        private System.Windows.Forms.Label labelVersion;
     }
 }

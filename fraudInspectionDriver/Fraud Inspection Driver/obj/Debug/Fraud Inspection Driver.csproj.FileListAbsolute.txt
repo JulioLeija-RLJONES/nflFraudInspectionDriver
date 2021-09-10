@@ -104,3 +104,30 @@ C:\Users\j.leija\source\git\Fraud Inspection Driver\fraudInspectionDriver\Fraud 
 C:\Users\j.leija\source\git\Fraud Inspection Driver\fraudInspectionDriver\Fraud Inspection Driver\obj\Debug\Fraud Inspection Driver.csproj.CopyComplete
 C:\Users\j.leija\source\git\Fraud Inspection Driver\fraudInspectionDriver\Fraud Inspection Driver\obj\Debug\Fraud Inspection Driver.exe
 C:\Users\j.leija\source\git\Fraud Inspection Driver\fraudInspectionDriver\Fraud Inspection Driver\obj\Debug\Fraud Inspection Driver.pdb
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\bin\Debug\chromedriver.exe
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\bin\Debug\Fraud Inspection Driver.exe.config
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\bin\Debug\Fraud Inspection Driver.exe.manifest
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\bin\Debug\Fraud Inspection Driver.application
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\bin\Debug\Fraud Inspection Driver.exe
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\bin\Debug\Fraud Inspection Driver.pdb
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\bin\Debug\EntityFramework.dll
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\bin\Debug\WebDriver.dll
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\bin\Debug\EntityFramework.xml
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\bin\Debug\WebDriver.xml
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\obj\Debug\Fraud Inspection Driver.csproj.AssemblyReference.cache
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\obj\Debug\RLJones.FraudInspectionDriver.Forms.FrmAbout.resources
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\obj\Debug\RLJones.FraudInspectionDriver.Forms.FrmCrossdockInspectionCheckpoint.resources
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\obj\Debug\RLJones.FraudInspectionDriver.FrmFraudInspection.resources
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\obj\Debug\RLJones.FraudInspectionDriver.Forms.FrmLogin.resources
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\obj\Debug\RLJones.FraudInspectionDriver.Forms.FrmMain.resources
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\obj\Debug\RLJones.FraudInspectionDriver.Forms.FrmSettings.resources
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\obj\Debug\RLJones.FraudInspectionDriver.Properties.Resources.resources
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\obj\Debug\Fraud Inspection Driver.csproj.GenerateResource.cache
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\obj\Debug\Fraud Inspection Driver.csproj.CoreCompileInputs.cache
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\obj\Debug\Fraud Inspection Driver.exe.manifest
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\obj\Debug\Fraud Inspection Driver.application
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\obj\Debug\Fraud Inspection Driver.csproj.CopyComplete
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\obj\Debug\Fraud Inspection Driver.exe
+C:\Users\j.leija\source\git\nflFraudInspectionDriver\fraudInspectionDriver\Fraud Inspection Driver\obj\Debug\Fraud Inspection Driver.pdb

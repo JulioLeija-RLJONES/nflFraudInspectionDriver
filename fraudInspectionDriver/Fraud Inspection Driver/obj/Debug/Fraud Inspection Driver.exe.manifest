@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Fraud Inspection Driver.exe" size="1640448">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Fraud Inspection Driver.exe" size="1640960">
       <assemblyIdentity name="Fraud Inspection Driver" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>cwbM0/J89azA0xFJAtR0iTMprF4dhwLwKbLrsQiqqXs=</dsig:DigestValue>
+        <dsig:DigestValue>f1iDxYZO10Dugrgq6qgs32GI6NFvPcFEue9e/KsJVqs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

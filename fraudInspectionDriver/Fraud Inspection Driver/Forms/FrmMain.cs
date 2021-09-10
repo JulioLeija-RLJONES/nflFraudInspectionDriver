@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
 using FraudInspectionDriver.Classes;
+using System.Deployment.Application;
 
 namespace RLJones.FraudInspectionDriver.Forms
 {
@@ -30,7 +31,15 @@ namespace RLJones.FraudInspectionDriver.Forms
         {
             InitializeComponent();
         }
-
+        private void initForm()
+        {
+            if (ApplicationDeployment.IsNetworkDeployed)
+            {
+                labelVersion.Text = string.Format("v{0}",
+                    ApplicationDeployment.CurrentDeployment.CurrentVersion.ToString(4));
+            }
+            labelVersion.Location = new Point(LblBlinker.Location.X-labelVersion.Width-labelVersion.Text.Length, LblBlinker.Location.Y / 2);
+        }
 
         #region Controls
         private void FrmMain_Load(object sender, EventArgs e)
@@ -42,6 +51,7 @@ namespace RLJones.FraudInspectionDriver.Forms
             Location = new Point(workingArea.Right - Size.Width,
                                 workingArea.Top + Size.Height);
 
+            initForm();
         }
         private void FrmMain_FormClosing(object sender, FormClosingEventArgs e)
         {
