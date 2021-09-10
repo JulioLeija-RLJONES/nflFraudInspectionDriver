@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+    <PublishUrlHistory>C:\fileFinder\437\fraudInspectionDriver\|ftp://10.30.100.206/FraudInspectionDriver/</PublishUrlHistory>
+    <InstallUrlHistory>https://nflapplicationstorage.blob.core.windows.net/nflapps/fraudInspectionDriver/|https://nflapplicationstorage.blob.core.windows.net/fraudinspectiondriver/|https://nflapplicationstorage.blob.core.windows.net/nflapps/|https://nflapplicationstorage.blob.core.windows.net/testcontainer/|http://10.30.100.206/FraudInspectionDriver/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

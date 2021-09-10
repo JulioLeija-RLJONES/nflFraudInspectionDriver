@@ -1,0 +1,21 @@
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\bin\Debug\FraudTrackerUnitTest.dll
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\bin\Debug\FraudTrackerUnitTest.pdb
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\obj\Debug\FraudTrackerUnitTest.csproj.AssemblyReference.cache
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\obj\Debug\FraudTrackerUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\obj\Debug\FraudTrackerUnitTest.csproj.CopyComplete
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\obj\Debug\FraudTrackerUnitTest.dll
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\obj\Debug\FraudTrackerUnitTest.pdb
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\bin\Debug\chromedriver.exe
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\bin\Debug\Fraud Inspection Driver.exe
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\bin\Debug\WebDriver.dll
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\bin\Debug\Fraud Inspection Driver.pdb
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\bin\Debug\Fraud Inspection Driver.exe.config
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\bin\Debug\WebDriver.xml
+C:\Users\j.leija\source\git\FraudInspectionDriver\fraudInspectionDriver\FraudTrackerUnitTest\bin\Debug\FraudTrackerUnitTest.dll.config
