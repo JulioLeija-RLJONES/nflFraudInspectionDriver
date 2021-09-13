@@ -179,6 +179,7 @@ namespace RLJones.FraudInspectionDriver.Forms
                     Tools.FlexLinkChrome.Minimize();
                     LblStatus.Text = "Performing fraud inspection, SN='" + SerialNumber + "'";
                     FrmFraudInspection fraudInspection = new FrmFraudInspection(SerialNumber);
+                    
                     fraudInspection.ShowDialog();
                     fraudTracker = new FraudTracker
                     {
@@ -190,7 +191,11 @@ namespace RLJones.FraudInspectionDriver.Forms
                         AFCTest = fraudInspection.GetResultText()
                     };
                     MsgTypes.printme("fraud item: " + fraudTracker.ToString(), this);
+
+                    
+
                     Db.InsertFraudTracker(fraudTracker);
+
                     LblStatus.Text = "Fraud inspection done, SN='" + SerialNumber + "'";
                     Tools.FlexLinkChrome.Maximize();
                 }

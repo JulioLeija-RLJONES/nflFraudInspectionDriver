@@ -176,7 +176,7 @@ namespace RLJones.FraudInspectionDriver.Classes
                 new SqlParameter("@PartNumber", tracker.PartNumber),
                 new SqlParameter("@AFCTest", tracker.AFCTest),
                 new SqlParameter("@FraudLoop", 1),
-                new SqlParameter("@IsFraudLoopComplete", 1)
+                new SqlParameter("@IsFraudLoopComplete", 0)
             };
 
             ExecuteReader(sql, parameters);
